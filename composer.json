@@ -1,6 +1,7 @@
 {
     "name": "xiezhengtao/xzt_test",
     "description": "test for composer",
+    "license": "MIT",
     "type": "project",
     "require": {
         "symfony/redis-messenger": "^5.4",
